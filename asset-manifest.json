@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ig-reels-clone/static/css/main.60609dd7.chunk.css",
+    "main.js": "/ig-reels-clone/static/js/main.f68534a7.chunk.js",
+    "main.js.map": "/ig-reels-clone/static/js/main.f68534a7.chunk.js.map",
+    "runtime-main.js": "/ig-reels-clone/static/js/runtime-main.ea0f4261.js",
+    "runtime-main.js.map": "/ig-reels-clone/static/js/runtime-main.ea0f4261.js.map",
+    "static/js/2.f9b7955b.chunk.js": "/ig-reels-clone/static/js/2.f9b7955b.chunk.js",
+    "static/js/2.f9b7955b.chunk.js.map": "/ig-reels-clone/static/js/2.f9b7955b.chunk.js.map",
+    "static/js/3.05ca3540.chunk.js": "/ig-reels-clone/static/js/3.05ca3540.chunk.js",
+    "static/js/3.05ca3540.chunk.js.map": "/ig-reels-clone/static/js/3.05ca3540.chunk.js.map",
+    "index.html": "/ig-reels-clone/index.html",
+    "static/css/main.60609dd7.chunk.css.map": "/ig-reels-clone/static/css/main.60609dd7.chunk.css.map",
+    "static/js/2.f9b7955b.chunk.js.LICENSE.txt": "/ig-reels-clone/static/js/2.f9b7955b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea0f4261.js",
+    "static/js/2.f9b7955b.chunk.js",
+    "static/css/main.60609dd7.chunk.css",
+    "static/js/main.f68534a7.chunk.js"
+  ]
+}

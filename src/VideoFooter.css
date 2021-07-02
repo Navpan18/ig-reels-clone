@@ -1,0 +1,59 @@
+.videoFooter{
+    position: relative;
+    margin-left: 20px;
+    bottom: 100px;
+}
+.videoFooter_text{
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    color: white;
+    margin-bottom: 20px;
+}
+.videoFooter_text>h5{
+    margin-left: 10px;
+    padding-bottom: 20px;
+}
+.videoFooter_text>h5>button{
+    color: white;
+    text-transform: inherit; /* to change in lowercase*/
+    font-weight: 900;
+    font-size: 11px;
+}
+.videoFooter_ticker>.ticker{
+    height: fit-content;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    width: 60%;
+}
+.videoFooter h1{
+    padding-top: 7px;
+    font-size: 12px;
+    color: white;
+}
+.videoFooter_icon{
+    position: absolute;
+    left: 5px;
+    color: white;
+}
+.videoFooter_actions{
+    display: flex;
+    position: absolute;
+    width: 95%;
+    color: white;
+    justify-content: space-between;
+}
+.videoFooter_actionsLeft > .MuiSvgIcon-root{
+    padding: 0 10px;
+}
+.videoFooter_actionsRight{
+    display: flex;
+}
+.videoFooter_stat{
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+}
+.videoFooter_stat>p{
+    margin-left: 3px;
+}

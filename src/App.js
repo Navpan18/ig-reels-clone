@@ -3,6 +3,8 @@ import { useState } from "react";
 import "./App.css";
 import VideoCard from "./VideoCard";
 import db from "./firebase"
+import robin1 from "./1.mp4"
+import robin2 from "./2.mp4"
 
 function App() {
   const [reels, setReels] = useState([])
@@ -26,7 +28,7 @@ function App() {
         channel="reelsforindia"
         avatarSrc={"https://bit.ly/3y0d5hh"}
         song={"test song - abc"}
-        url={"https://icecube-eu-830.icedrive.io/download?p=TPZh_dZAlH2htfpwQOlz5lAtiikqcyvZCtRKGfOAp1J0jdbEzqAuW1acqoq4BIE.avQiXloKy3IZPqUV8VmlMMaPKn7hPXTeOinTZb8Rksf_aNe3D_sssI26g6IxupBqlvbV3aCvcEMFtHoGihdCq5qkJuWdaERIvtQWojQFSf06ILsnm9vsVw4zLZd99aAtmHKFJDJ6JrhMqvgoBND6j83ta4Hfbarxgr4wla5vsMFIq1tZgAO0shcTNJqFxpgU"}
+        url={robin1}
         likes={950}
         shares={40}
         />
@@ -34,7 +36,7 @@ function App() {
         channel="okvelvet"
         avatarSrc={"https://bit.ly/3h13uRr"}
         song={"test song - abc"}
-        url={"https://icecube-eu-830.icedrive.io/download?p=TPZh_dZAlH2htfpwQOlz5lAtiikqcyvZCtRKGfOAp1Io.ibrAKPGf4_N8J6PNNkbavQiXloKy3IZPqUV8VmlMMaPKn7hPXTeOinTZb8RkseK0L4vdqkQ8.8m3Llx.rp2n7CZFyyncsFmxfiH8myAxMgGplUBwcdE6yyhPnEstXfqYuu29uw9qbDDfzRLrBxi3JmEwIV5m._IV7.6pRnx47IpT57YGjrFM9dgVRFQAuMZItJdpG_wtPqFtySjcuuT"}
+        url={robin2}
         likes={750}
         shares={50} />
       </div>

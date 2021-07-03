@@ -3,6 +3,7 @@ import "./VideoCard.css";
 import VideoHeader from "./VideoHeader";
 import VideoFooter from "./VideoFooter";
 
+
 function VideoCard({url,likes,shares,channel,avatarSrc,song}) {
   const [isVideoPlaying, setIsVideoPlaying] = useState(false);
   const videoRef = useRef(null);
@@ -19,14 +20,14 @@ function VideoCard({url,likes,shares,channel,avatarSrc,song}) {
     <div className="videoCard">
       <VideoHeader />
       <video
-      controlsList="nodownload"
-        src={url}
+      // controlsList="nodownload"
+        // src={url}
         onClick={onVideoPress}
         ref={videoRef}
         className="videoCard_player"
         loop
       >
-        {/* <source src={"https://bit.ly/2U6mEwy"} /> */}
+        <source src={url} type="video/mp4" />
         {/* <source src={"https://bit.ly/3A55Q9E"}   /> */}
       </video>
       

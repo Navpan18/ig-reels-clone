@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ig-reels-clone/static/css/main.281bbbda.chunk.css",
-    "main.js": "/ig-reels-clone/static/js/main.c338b094.chunk.js",
-    "main.js.map": "/ig-reels-clone/static/js/main.c338b094.chunk.js.map",
+    "main.css": "/ig-reels-clone/static/css/main.2161acdf.chunk.css",
+    "main.js": "/ig-reels-clone/static/js/main.d6b2d6be.chunk.js",
+    "main.js.map": "/ig-reels-clone/static/js/main.d6b2d6be.chunk.js.map",
     "runtime-main.js": "/ig-reels-clone/static/js/runtime-main.ea0f4261.js",
     "runtime-main.js.map": "/ig-reels-clone/static/js/runtime-main.ea0f4261.js.map",
     "static/js/2.f9b7955b.chunk.js": "/ig-reels-clone/static/js/2.f9b7955b.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.05ca3540.chunk.js": "/ig-reels-clone/static/js/3.05ca3540.chunk.js",
     "static/js/3.05ca3540.chunk.js.map": "/ig-reels-clone/static/js/3.05ca3540.chunk.js.map",
     "index.html": "/ig-reels-clone/index.html",
-    "static/css/main.281bbbda.chunk.css.map": "/ig-reels-clone/static/css/main.281bbbda.chunk.css.map",
+    "static/css/main.2161acdf.chunk.css.map": "/ig-reels-clone/static/css/main.2161acdf.chunk.css.map",
     "static/js/2.f9b7955b.chunk.js.LICENSE.txt": "/ig-reels-clone/static/js/2.f9b7955b.chunk.js.LICENSE.txt",
     "static/media/1.c782d489.mp4": "/ig-reels-clone/static/media/1.c782d489.mp4",
     "static/media/2.738affc8.mp4": "/ig-reels-clone/static/media/2.738affc8.mp4"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.ea0f4261.js",
     "static/js/2.f9b7955b.chunk.js",
-    "static/css/main.281bbbda.chunk.css",
-    "static/js/main.c338b094.chunk.js"
+    "static/css/main.2161acdf.chunk.css",
+    "static/js/main.d6b2d6be.chunk.js"
   ]
 }
